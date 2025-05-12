@@ -1,0 +1,12 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Moon -->
+  <circle cx="100" cy="100" r="80" fill="#0F172A" />
+  <path d="M100 20A80 80 0 1 0 100 180" fill="#1E293B" />
+  
+  <!-- Wolf Silhouette -->
+  <path d="M60 120 Q100 60 140 120 L130 160 Q100 180 70 160 Z" fill="#7E22CE" />
+  
+  <!-- Semicolon Constellation -->
+  <circle cx="120" cy="80" r="5" fill="#38BDF8" />
+  <path d="M120 90 L120 100" stroke="#38BDF8" stroke-width="3" />
+</svg>
